@@ -1,0 +1,12 @@
+{
+    "pop3": {
+        "server": "xxx.xxx.com",
+        "port": 110,
+        "email_username": "xxx@xxx.com",
+        "email_password": "yourPop3Pass"
+    },
+    "notifications": {
+        "email_count": 3,
+        "check_interval": 300
+    }
+}
